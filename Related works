@@ -1,0 +1,3 @@
+1. regression loss related works:
+  Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression   CVPR 2019
+  code: https://github.com/generalized-iou/Detectron.pytorch
